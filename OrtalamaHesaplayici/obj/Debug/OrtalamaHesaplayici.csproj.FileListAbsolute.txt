@@ -1,0 +1,9 @@
+C:\Users\Erdem\Documents\Visual Studio 2012\Projects\OrtalamaHesaplayici\OrtalamaHesaplayici\bin\Debug\OrtalamaHesaplayici.exe.config
+C:\Users\Erdem\Documents\Visual Studio 2012\Projects\OrtalamaHesaplayici\OrtalamaHesaplayici\bin\Debug\OrtalamaHesaplayici.exe
+C:\Users\Erdem\Documents\Visual Studio 2012\Projects\OrtalamaHesaplayici\OrtalamaHesaplayici\bin\Debug\OrtalamaHesaplayici.pdb
+C:\Users\Erdem\Documents\Visual Studio 2012\Projects\OrtalamaHesaplayici\OrtalamaHesaplayici\obj\Debug\OrtalamaHesaplayici.csprojResolveAssemblyReference.cache
+C:\Users\Erdem\Documents\Visual Studio 2012\Projects\OrtalamaHesaplayici\OrtalamaHesaplayici\obj\Debug\OrtalamaHesaplayici.Form1.resources
+C:\Users\Erdem\Documents\Visual Studio 2012\Projects\OrtalamaHesaplayici\OrtalamaHesaplayici\obj\Debug\OrtalamaHesaplayici.Properties.Resources.resources
+C:\Users\Erdem\Documents\Visual Studio 2012\Projects\OrtalamaHesaplayici\OrtalamaHesaplayici\obj\Debug\OrtalamaHesaplayici.csproj.GenerateResource.Cache
+C:\Users\Erdem\Documents\Visual Studio 2012\Projects\OrtalamaHesaplayici\OrtalamaHesaplayici\obj\Debug\OrtalamaHesaplayici.exe
+C:\Users\Erdem\Documents\Visual Studio 2012\Projects\OrtalamaHesaplayici\OrtalamaHesaplayici\obj\Debug\OrtalamaHesaplayici.pdb
